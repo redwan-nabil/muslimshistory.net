@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.ihistory.pro/</loc>
+  <lastmod>2021-07-08T00:28:20+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.ihistory.pro/index.php</loc>
+  <lastmod>2021-07-08T00:28:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.ihistory.pro/calender.php</loc>
+  <lastmod>2021-07-08T00:28:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.ihistory.pro/eventbycatagory.php</loc>
+  <lastmod>2021-07-08T00:28:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.ihistory.pro/architecture2.php</loc>
+  <lastmod>2021-07-08T00:28:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.ihistory.pro/blog/architecture/aqsa/</loc>
+  <lastmod>2021-07-08T00:28:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.ihistory.pro/blog/architecture/egypt-architecture/</loc>
+  <lastmod>2021-07-08T00:28:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.ihistory.pro/blog/architecture/bangladesh/</loc>
+  <lastmod>2021-07-08T00:28:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.ihistory.pro/blog/architecture/aqsa/which-is-masjidul-aqsa/</loc>
+  <lastmod>2021-07-08T00:28:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.ihistory.pro/blog/architecture/aqsa/masjidul-aqsa/</loc>
+  <lastmod>2021-07-08T00:28:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.ihistory.pro/blog/architecture/egypt-architecture/amr-ibnul-as-mosque/</loc>
+  <lastmod>2021-07-08T00:28:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.ihistory.pro/blog/architecture/bangladesh/60-dome-mosque/</loc>
+  <lastmod>2021-07-08T00:28:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
